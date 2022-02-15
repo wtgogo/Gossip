@@ -1,2 +1,2 @@
 # Gossip
-A web application of micro-blog.
+A microblogging web application for recovery training.
